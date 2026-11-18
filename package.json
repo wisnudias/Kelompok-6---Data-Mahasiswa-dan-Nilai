@@ -1,0 +1,24 @@
+{
+  "name": "kelompok-6---data-mahasiswa-dan-nilai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axclyyy/Kelompok-6---Data-Mahasiswa-dan-Nilai.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/axclyyy/Kelompok-6---Data-Mahasiswa-dan-Nilai/issues"
+  },
+  "homepage": "https://github.com/axclyyy/Kelompok-6---Data-Mahasiswa-dan-Nilai#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^7.0.2"
+  }
+}
